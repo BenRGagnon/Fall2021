@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Lab10/findstr.c
+main.h
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Lab10/main.h
+findstr.h
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Lab10/findstr.h
+
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Lab10/findstr.h
+unistd.h
+-
+string.h
+-
+
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Lab10/main.h
+stdio.h
+-
+stdlib.h
+-
+strcpy.h
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Lab10/strcpy.h
+findstr.h
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Lab10/findstr.h
+
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Lab10/strcpy.h
+

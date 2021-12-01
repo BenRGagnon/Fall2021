@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Midterm2/sortArray.c
+sortArray.h
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Midterm2/sortArray.h
+
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Midterm2/sortArray.h
+stdio.h
+-
+

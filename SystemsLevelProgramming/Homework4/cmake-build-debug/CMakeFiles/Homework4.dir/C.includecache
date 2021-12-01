@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Homework4/dialingCode.c
+dialingCode.h
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Homework4/dialingCode.h
+
+/Users/bengagnon/CLionProjects/SystemsLevelProgramming/Homework4/dialingCode.h
+stdio.h
+-
+stdlib.h
+-
+
