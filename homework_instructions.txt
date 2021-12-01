@@ -1,0 +1,10 @@
+Create a Google doc for each homework assignment submission.
+Start your responses from page 2 of the document and copy these instructions on page 1. 
+Fill in your name, campus ID and panther # in the fields provided. If this information is missing in your document TWO POINTS WILL BE DEDUCTED per submission.
+Keep this page 1 intact on all your submissions. If this submissions instructions page is missing in your submission TWO POINTS WILL BE DEDUCTED per submission.
+Each homework will typically have 2-3 PARTS, where each PART focuses on specific topic(s).
+Start your responses to each PART on a new page. 
+If you are being asked to write code copy the code into a separate txt file and submit that as well.
+If you are being asked to test code or run specific commands or scripts, provide the evidence of your outputs through a screenshot and copy the same into the document.
+Upon completion, download a .PDF version of the document and submit the same.
+

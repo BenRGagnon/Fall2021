@@ -1,0 +1,50 @@
+  382  cp /hom/bbello1/Public/Try.c .
+  383  cp /home/bbello/Public/Try.c .
+  384  cp /home/bbello1/Public/Try.c 
+  385  cp /home/bbello1/Public/Try.c .
+  386  $vi Try.c 
+  387  vi Try.c 
+  388  cp /home/bbello1/Public/RealEstate.csv .
+  389  ls
+  390  vi RealEstate.csv 
+  391  ls
+  392  cd Lab
+  393  cd Lab3
+  394  ls -l
+  395  vi RealEstate.csv 
+  396  ls
+  397  rm -r public
+  398  ls
+  399  rm -r Lab2_P2/
+  400  ls
+  401  clear
+  402  mkdir Lab2_P2
+  403  ls
+  404  cd Lab2_P2/
+  405  cp /home/bbello1/Public/RealEstate.csv .
+  406  ls
+  407  cat RealEstate.csv 
+  408  head RealEstate.csv 
+  409  wc -l RealEstate.csv 
+  410  mkdir ~/public
+  411  cp RealEstate.csv ~/myRealEstate.cv
+  412  ls
+  413  ls ~/public/
+  414  pwd
+  415  ls
+  416  ls ~/
+  417  RM ~/myRealEstate.cv 
+  418  rm ~/myRealEstate.cv
+  419  cp RealEstate.csv ~/public/myRealEstate.cv
+  420  ls ~/public/
+  421  cd ../public/
+  422  mkdir Others
+  423  mkdir Submission
+  424  smdir ./Submission/Lab2
+  425  mkdir ./Submission/Lab2
+  426  mkdir ./Submission/Lab3
+  427  rm ~/Lab2_P2
+  428  rm -r ~/Lab2_P2
+  429  history 50
+  430  history 50 > ../Submission/Lab2/Lab2_2.txt
+  431  history 50 > ./Submission/Lab2/Lab2_2.txt

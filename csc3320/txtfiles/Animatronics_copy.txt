@@ -1,0 +1,274 @@
+Animatronics refers to mechatronic puppets.[1] They are a modern variant of the automaton and are often used for the portrayal of characters in films and in theme park attractions.
+
+Before the term "animatronics" became common, they were usually referred to as "robots". Since then, robots have become known as more practical programmable machines that do not necessarily resemble living creatures. Robots (or other artificial beings) designed to convincingly resemble humans are known as "androids".[2]
+
+Animatronics is a multidisciplinary field integrating puppetry, anatomy and mechatronics.[3][4] Animatronic figures can be implemented with both computer and human control, including teleoperation. Motion actuators are often used to imitate muscle movements and create realistic motions. Figures are usually encased in body shells and flexible skins made of hard and soft plastic materials and finished with colors, hair, feathers and other components to make them more lifelike.
+
+
+Contents
+1	Etymology
+2	Timeline
+3	History
+3.1	Origins in automata
+3.2	Modern attractions
+3.2.1	Film and television
+3.2.2	Advertising
+3.2.3	Toys
+4	Design
+4.1	Structure
+4.1.1	Frame or skeleton
+4.1.2	Exterior or skin
+4.2	Movement
+4.3	Emotion modeling
+5	Training and education
+6	Animatronics and artificial intelligence
+7	In popular culture
+7.1	Films
+7.2	Short films
+7.3	Television
+7.4	Video games
+8	See also
+9	References
+10	External links
+Etymology[edit]
+Animatronics is a portmanteau of animate and electronics.[5]
+
+
+West Edmonton Mall's fire-breathing dragon animatronic (1999 - 2014)
+The term Audio-Animatronics was coined by Walt Disney in 1961 when he started developing animatronics for entertainment and film. Audio-Animatronics does not differentiate between animatronics and androids.
+
+Autonomatronics was also defined by Disney Imagineers to describe more advanced Audio-Animatronic technology featuring cameras and complex sensors to process and respond to information in the character's environment.[6]
+
+Timeline[edit]
+
+The Enchanted Tiki Room
+
+A Billy Bob animatronic with a child at a ShowBiz Pizza Place
+1939: Sparko, The Robot Dog, pet of Elektro, performs in front of the public but Sparko, unlike many depictions of robots in that time, represented a living animal, thus becoming the very first modern day animatronic character,[7] along with an unnamed horse which was reported to gallop realistically. The animatronic galloping horse was also on display at the 1939 World's Fair, in a different exhibit than Sparko's.[8], 1939 New York World's Fair
+1961: Heinrich Ernst develops the MH-1, a computer-operated mechanical hand.[9]
+1961: Walt Disney coins the term "Audio-Animatronics" and his WED Enterprises team begins developing modern animatronic technology.[10]
+1963: The first Audio-Animatronics created by Disney, the Enchanted Tiki Birds of Walt Disney's Enchanted Tiki Room, debut at Disneyland., Disneyland
+1964: In the film Mary Poppins, animatronic birds are the first animatronics featured in a motion picture. The first animatronic figure of a person, that of Abraham Lincoln, is created by Disney for its Abraham Lincoln attraction at the Illinois State Pavilion of the 1964 New York World's Fair.[10]
+1977: Chuck E. Cheese (then known as Pizza Time Theatre) is the first restaurant with animatronics as an attraction.
+1980: ShowBiz Pizza Place opens with the Rock-afire Explosion
+1982: Ben Franklin is the first animatronic figure to walk up a set of stairs.[11]
+1989: The first A-100 animatronic, portraying the Wicked Witch of the West from The Wizard of Oz, is developed for The Great Movie Ride attraction at Disney-MGM Studios.
+1993: The largest animatronic figure ever built is the T. rex for Steven Spielberg's film Jurassic Park.
+1998: Tiger Electronics begins selling Furby, an animatronic pet that speaks over 800 English and "Furbish" phrases and can react to its environment., Vernon Hills, Illinois
+May 11, 1999: Sony releases the AIBO animatronic pet., Tokyo, Japan
+2005: Engineered Arts produces the first version of their animatronic actor, RoboThespian
+2008: Mr. Potato Head at the Toy Story exhibit features lips with superior range of movement to previous animatronic figures.[12], Disney's Hollywood Studios
+October 31, 2008 – July 1, 2009: The Abraham Lincoln animatronic character is upgraded to incorporate new technology.[10], The Hall of Presidents
+September 28, 2009: Disney develops Otto, the first interactive figure that can sense and respond to actions around it.[10], D23 Expo
+History[edit]
+Origins in automata[edit]
+Main article: Automaton
+Animatronics stem from a long tradition of mechanical automata powered by hydraulics, pneumatics and clockwork. Greek mythology and ancient Chinese writings mention early examples of automata, with the oldest dating to the 16th century.
+
+Modern attractions[edit]
+See also: List of Disney attractions using Audio-Animatronics and Category:Animatronic attractions
+
+Sparko the Robot Dog from 1940s
+The first animatronics characters shown to the public were a dog and a horse, as separate attractions at the 1939 New York World's Fair. Sparko, The Robot Dog (the "pet" of Elektro the Robot) is considered the first modern-day animatronic character, as it represented a living animal rather than a purely mechanical figure.[7] An unnamed animatronic horse, which was reported to gallop realistically, was also exhibited.[8]
+
+Laffing Sal was one of several automated characters used to attract carnival and amusement park patrons to funhouses and dark rides throughout the United States.[13] Its movements were accompanied by a raucous recorded laugh that sometimes frightened small children and annoyed adults.[14]
+
+Walt Disney is often credited for popularizing animatronics for entertainment after he bought an animatronic bird while vacationing (in either New Orleans[15] or Europe[16]). Disney's vision for Audio-Animatronics was primarily focused on patriotic displays rather than amusements.[17]
+
+In 1951, two years after Disney developed animatronics, he commissioned machinist Roger Broggie and sculptor Wathel Rogers to lead a team tasked with creating a 9" figure that could talk and recreate dance routines performed by actor Buddy Ebsen. The figure, dubbed Project Little Man, was never finished. A year later, Walt Disney Imagineering was created.[18] Disney used what appeared as an animatronic bird in his film Mary Poppins (1964), which was actually controlled by bicycle cables.[citation needed]
+
+After Project Little Man, the Imagineering team's first project was a "Chinese head" which was on display in the lobby of their office. Customers could ask the head questions and it replied with words of wisdom. The eyes blinked and its mouth opened and closed.[18]
+
+Walt Disney Productions started using animatronics in 1955 for Disneyland's Jungle Cruise ride,[19] then for its Walt Disney's Enchanted Tiki Room attraction, which featured animatronic tropical birds and other characters.
+
+The first fully audio-animatronic human figure was that of Abraham Lincoln, created by Disney for the 1964 World's Fair in New York. In 1965, Disney upgraded the figure, dubbed the Lincoln Mark II, to appear at the Opera House at Disneyland Resort in California.[17] For three months, while the original Lincoln performed in New York, the Lincoln Mark II gave five performances per hour at Disneyland. Actor Royal Dano voiced both versions of the figure.[17]
+
+Lucky the Dinosaur is the first free-roving Audio-Animatronic figure created by Disney's Imagineers.[20] An approximately 8-foot-tall (2.4 m) green Segnosaurus figure, it pulls a flower-covered cart and is led by Chandler the Dinosaur Handler. The flower cart Lucky pulls conceals its computer and power source.[21]
+
+The Muppet Mobile Lab is a free-roving Audio-Animatronic unit designed by Walt Disney Imagineering. Two Muppet characters, Dr. Bunsen Honeydew and his assistant Beaker, pilot their "laboratory" vehicle through the park, interacting with guests and deploying special effects such as foggers, flashing lights, moving signs, confetti cannons and spray jets. The attraction is currently deployed at Hong Kong Disneyland in Hong Kong.
+
+Film and television[edit]
+The film industry has been a driving force revolutionizing the technology used to develop animatronics.[22]
+
+Animatronics are used in situations where a creature does not exist, the action is too risky or costly to use real actors or animals, or the action could never be obtained with a living person or animal. Its main advantage over CGI and stop motion is that the simulated creature has a physical presence moving in front of the camera in real time. The technology behind animatronics has become more advanced and sophisticated over the years, making the puppets even more lifelike.
+
+Animatronics were first introduced by Disney in the 1964 film Mary Poppins which featured an animatronic bird. Since then, animatronics have been used extensively in such movies as Jaws, and E.T. the Extra-Terrestrial, which relied heavily on animatronics.[23]
+
+Directors such as Steven Spielberg and Jim Henson have been pioneers in using animatronics in the film industry; a film co-directed by the latter, The Dark Crystal, was promoted as the first to feature no human characters, and showcased groundbreaking puppets designed by Brian Froud and created by Henson's then recently established Creature Shop in London.
+
+The 1993 film Jurassic Park used a combination of computer-generated imagery in conjunction with life-sized animatronic dinosaurs built by Stan Winston and his team. Winston's animatronic "T. rex" stood almost 20 feet (6.1 m),[24] 40 feet (12 m) in length[25] and even the largest animatronics weighing 9,000 pounds (4,100 kg) were able to perfectly recreate the appearance and natural movement on screen of a full-sized Tyrannosaurus rex.[26]
+
+Jack Horner called it "the closest I've ever been to a live dinosaur".[25] Critics referred to Spielberg's dinosaurs as breathtakingly — and terrifyingly — realistic.[27][28]
+
+The 1999 BBC miniseries Walking with Dinosaurs was produced using a combination of about 80% CGI and 20% animatronic models.[29] The quality of computer imagery of the day was good, but animatronics were still better at distance shots, as well as closeups of the dinosaurs.[29] Animatronics for the series were designed by British animatronics firm Crawley Creatures.[29] The show was followed up in 2007 with a live adaptation of the series, Walking with Dinosaurs: The Arena Spectacular.
+
+Geoff Peterson is an animatronic human skeleton that serves as the sidekick on the late-night talk show The Late Late Show with Craig Ferguson. Often referred to as a "robot skeleton", Peterson is a radio-controlled animatronic robot puppet designed and built by Grant Imahara of MythBusters.[30]
+
+Advertising[edit]
+The British advertisement campaign for Cadbury Schweppes titled Gorilla featured an actor inside a gorilla suit with an animatronically animated face.
+
+The Slowskys was an advertising campaign for Comcast Cable's Xfinity broadband Internet service. The ad features two animatronic turtles, and it won the gold Effie Award in 2007.[31]
+
+Toys[edit]
+Some examples of animatronic toys include Teddy Ruxpin, Big Mouth Billy Bass, FurReal, Kota the triceratops, Pleo, WowWee Alive Chimpanzee, Microsoft Actimates, and Furby. Well-known brands include Cuddle Barn, Gemmy Industries, Tickle Me Elmo, and Dan Dee.
+
+Design[edit]
+An animatronics character is built around an internal supporting frame, usually made of steel. Attached to these "bones" are the "muscles" which can be manufactured using elastic netting composed of styrene beads.[32] The frame provides the support for the electronics and mechanical components, as well as providing the shape for the outer skin.[33]
+
+The "skin" of the figure is most often made of foam rubber, silicone or urethane poured into moulds and allowed to cure. To provide further strength a piece of fabric is cut to size and embedded in the foam rubber after it is poured into the mould. Once the mould has fully cured, each piece is separated and attached to the exterior of the figure providing the appearance and texture similar to that of "skin".[34]
+
+Structure[edit]
+An animatronics character is typically designed to be as realistic as possible and thus, is built similarly to how it would be in real life. The framework of the figure is like the "skeleton". Joints, motors, and actuators act as the "muscles". Connecting all the electrical components together are wires, such as the "nervous system" of a real animal or person.[35]
+
+Frame or skeleton[edit]
+Steel, aluminum, plastic, and wood are all commonly used in building animatronics but each has its best purpose. The relative strength, as well as the weight of the material itself, should be considered when determining the most appropriate material to use. The cost of the material may also be a concern.[35]
+
+Exterior or skin[edit]
+Several materials are commonly used in the fabrication of an animatronics figure's exterior. Dependent on the particular circumstances, the best material will be used to produce the most lifelike form.
+
+For example, "eyes" and "teeth" are commonly made completely out of acrylic.[36]
+
+Latex[edit]
+White latex is commonly used as a general material because it has a high level of elasticity. It is also pre-vulcanized, making it easy and fast to apply.[37] Latex is produced in several grades. Grade 74 is a popular form of latex that dries rapidly and can be applied very thick, making it ideal for developing molds.[38]
+
+Foam latex is a lightweight, soft form of latex which is used in masks and facial prosthetics to change a person's outward appearance, and in animatronics to create a realistic "skin".[38] The Wizard of Oz was one of the first films to make extensive use of foam latex prosthetics in the 1930s.[39]
+
+Silicone[edit]
+Disney has a research team devoted to improving and developing better methods of creating more lifelike animatronics exteriors with silicone.[40]
+
+RTV silicone (room temperature vulcanization silicone) is used primarily as a molding material as it is very easy to use but is relatively expensive. Few other materials stick to it, making molds easy to separate.[41][42]
+
+Bubbles are removed from silicone by pouring the liquid material in a thin stream or processing in a vacuum chamber prior to use. Fumed silica is used as a bulking agent for thicker coatings of the material.[43]
+
+Polyurethane[edit]
+Polyurethane rubber is a more cost effective material to use in place of silicone. Polyurethane comes in various levels of hardness which are measured on the Shore scale. Rigid polyurethane foam is used in prototyping because it can be milled and shaped in high density. Flexible polyurethane foam is often used in the actual building of the final animatronic figure because it is flexible and bonds well with latex.[38]
+
+Plaster[edit]
+As a commonplace construction and home decorating material, plaster is widely available. Its rigidity limits its use in moulds, and plaster moulds are unsuitable when undercuts are present. This may make plaster far more difficult to use than softer materials like latex or silicone.[42]
+
+Movement[edit]
+Pneumatic actuators can be used for small animatronics but are not powerful enough for large designs and must be supplemented with hydraulics. To create more realistic movement in large figures, an analog system is generally used to give the figures a full range of fluid motion rather than simple two position movements.[44]
+
+Emotion modeling[edit]
+Mimicking the often subtle displays of humans and other living creatures, and the associated movement is a challenging task when developing animatronics. One of the most common emotional models is the Facial Action Coding System (FACS) developed by Ekman and Friesen.[45] FACS defines that through facial expression, humans can recognize 6 basic emotions: anger, disgust, fear, joy, sadness, and surprise. Another theory is that of Ortony, Clore, and Collins, or the OCC model[46] which defines 22 different emotional categories.[47]
+
+In 2020 Disney revealed its new animatronics robot that can breathe, move its eyes very much like humans, and identify people around it in order to select "an appropriate" response, as opposed to previous Disney animatronics that were used in purely scripted, non-interactive situations, like theme park rides.[48]
+
+Training and education[edit]
+Animatronics has been developed as a career which combines the disciplines of mechanical engineering, casting/sculpting, control technologies, electrical/electronic systems, radio control and airbrushing.
+
+Some colleges and universities do offer degree programs in animatronics. Individuals interested in animatronics typically earn a degree in robotics which closely relate to the specializations needed in animatronics engineering.[49]
+
+Students achieving a bachelor's degree in robotics commonly complete courses in:
+
+Mechanical engineering
+Industrial robotics
+Mechatronics systems
+Modeling of robotics systems
+Robotics engineering
+Foundational theory of robotics
+Introduction to robotics
+Animatronics and artificial intelligence[edit]
+The fusion of animatronics with artificial intelligence results in androids, as is usually known, robots that imitate human behavior. We have a technique capable of providing the appearance and behavior of living beings to machines. We are 'humanizing' robots. But it's not only the movements that look very real, but also, it seems real thanks to the synthetic skin they have used and makeup.[50]
+
+The Disney company is about to use animatronics and artificial intelligence to simulate one of their characters in real life: Pascal, one of the characters in the movie Tangled.[50]
+
+On the other hand, Dubai is already using police robots created by PAL Robotics.[51]
+
+In popular culture[edit]
+Animatronic characters appear in both films and video games, most notably in horror genre and survival horror video games that generally features possessed animatronics as antagonists.
+
+Films[edit]
+The Banana Splits Movie, a 2019 American comedy horror film starring Dani Kind, Steve Lund, Sara Canning, and the voice of Eric Bauza, follows a young boy and his family who, as a birthday present, attend a live taping of a successful children's television series featuring Fleegle, Bingo, Drooper, and Snorky, four goofy-like animatronic characters. However, their new software updates go haywire upon learning the upcoming cancellation of their show and the characters start a killing spree that the crew and audience must survive. It is a horror reimagining of the 1968-1970 Hanna-Barbera's television series of the same name.[52]
+Willy's Wonderland, a 2021 American action comedy horror film starring Nicolas Cage, Emily Tosta, David Sheftell and Beth Grant, follows a quiet drifter who is tricked into cleaning up a once-successful abandoned family entertainment center while battling the restaurant's eight murderous animatronic characters (possessed by souls of cannibalistic serial killers) with the aid of a teenager and her friends.[53]
+Short films[edit]
+Wally's Wonderland, a 2016 action horror short film directed and starred by G. O. Parsons as a janitor working at Wally's Wonderland, an old abandoned family entertainment center featuring Beary Bear, a grizzly bear animatronic. Parsons would later write and produce the full-length feature film of diferent title based on the short.[54]
+The Hug, a 2018 horror short film directed by Jack Bishop and Justin Nijm, and starring Nick Armstrong and Roman George, follows a bratty birthday boy at a ShowBiz Pizza Place-like restaurant, who has an awkward situation with Pandory the Panda, the pizzeria's giant panda animatronic mascot. It premiered at Hulu as part of its "Huluween" film competition.[55]
+Television[edit]
+The Capicola Gang, a trio of evil anthropomorphic animatronic animals from The Fun Fun Zone, consisting of Dominic (a robot bear, although listed in the credits as Main Bear), who is based on Vito Corleone from The Godfather, Louie (a robot beaver), Amelia (a robot duck, although listed in the credits as Duck Lady), are minor antagonists in the Regular Show episodes "Fuzzy Dice"[56] and "Steak Me Amadeus".[57] The Capicola Gang Leader had a cameo appearance as an incriminating witness in "Can you Ear Me Now?"[58] where he testified in court against Mordecai and Rigby. They share a resemblance to the characters from the popular game series Five Nights at Freddy's and the popular kids entertainment center Chuck E. Cheese.
+Hoo-Ha's Jamboree, an animatronic band at Hoo-Ha Owl's Pizzamatronic Jamboree, and a parody of The Rock-afire Explosion of ShowBiz Pizza Place, which consist of Hoo-Ha the Owl (guitarist, and lead singer), Cheerleader (banjoist), Beaver (guitarist), Rat in a Barrel (two same animatronics sit on either side of the stage), Cowboy Frog (bongo player), and Will E. Badger (opening act) are the secondary antagonists in the Gravity Falls episodes "Soos and the Real Girl",[59] "Weirdmageddon Part 1",[60] and "Weirdmageddon 2: Escape From Reality".[61] They are seen in photos in "Not What He Seems".[62]
+Video games[edit]
+Five Nights at Freddy's, a horror video game series, features a large amount of animatronic entertainers such as the titular Freddy Fazbear. In the games, it is shown that the animatronic characters, possessed by the spirits of children murdered at a franchise location, walk around at night and attempt to kill night watchmen that work there. It's speculated that this is done in an attempt to seek revenge for their own deaths, as their murderer is revealed in later installments to be William Afton (a.k.a. "The Purple Guy"), the series' main antagonist, a former company official, the founder of in-universe company Afton Robotics, LLC, co-founder of in-universe company Fazbear Entertainment, Inc., and a child murderer. He was, directly and indirectly, responsible for numerous incidents and tragedies throughout the series. As revealed in various minigames, he killed at least six children before the events of the series. Sometime before the events of Five Nights at Freddy's 3, he became aware that the children's vengeful spirits have possessed his animatronics and attempted to destroy them, but they scared and cornered him into the old Spring Bonnie suit (which he used to lure children in the back areas of his restaurant before killing them), and he became Springtrap, then the virus Glitchtrap (in digital form), in Five Nights at Freddy's: Help Wanted, as well as possessing a woman named Ness (implied to be Vanny) in Five Nights at Freddy's: Special Delivery.[63][64] The series features many game installments as well as a spinoff novel trilogy[65][66][67][68][69] and a series of several dozen short stories.[70][71][72][73] A movie based on the series was said to start filming by the end of Spring 2021.[74]
+	Technology portal
+See also[edit]
+	Look up animatronics in Wiktionary, the free dictionary.
+Automaton
+Karakuri ningyō
+Uncanny valley
+References[edit]
+Footnotes
+Sources
+^ "Definition of Animatronic". www.merriam-webster.com. Retrieved 2020-02-07.
+^ "Definition: an·droid". Merriam-Webster. Merriam-Webster Inc. a robot that looks like a person
+^ Shooter, P.E., Steven B. "Animatronics". Mechanical Engineering Dept. Bucknell University. Archived from the original on 27 April 2016. Retrieved 10 October 2014.
+^ "Define: animatronics". Oxford Dictionary. Oxford University Press. The technique of making and operating lifelike robots
+^ "the definition of animatronic".
+^ Kiniry, Laura (2012-10-03). "6 Cool—And Creepy—Animatronic Advancements". Popular Mechanics. Retrieved 10 August 2014.
+^ Jump up to: a b "An introduction to Animatronics". Retrieved 10 August 2014.
+^ Jump up to: a b Corporation, Bonnier (Jan 1939). "A Mechanical Horse Gallops Realistically". Popular Science. 134 (1): 117. Retrieved 10 August 2014.
+^ Ernst, Heinrich A (1962). "MH-1, a computer-operated mechanical hand" (PDF). Proceedings of the May 1-3, 1962, spring joint computer conference on - AIEE-IRE '62 (Spring). p. 39. doi:10.1145/1460833.1460839. hdl:1721.1/15735. S2CID 18024020.
+^ Jump up to: a b c d Ayala, Alfredo Medina (22 October 2010). "Autonomatronics TM". Advances in New Technologies, Interactive Interfaces, and Communicability First International Conference Papers. Lecture Notes in Computer Science. 6616 (1st ed.). Huerta Grande, Argentina: Springer Berlin Heidelberg. pp. 8–15. doi:10.1007/978-3-642-20810-2_2. ISBN 978-3-642-20809-6.
+^ Webb, Michael (1983). "The Robots Are Here! The Robots Are Here!". Design Quarterly (121): 4–21. doi:10.2307/4091102. JSTOR 4091102.
+^ Clark, Eric (2007). The Real Toy Story. Free Press. ISBN 978-0-7432-9889-6. Retrieved 10 August 2014.
+^ Luca, Bill (2003). "My Gal Sal". Laff In The Dark.com. Retrieved 26 August 2010.
+^ "Laffing Sal (automation)". Musée Mécanique. Archived from the original on 14 August 2007. Retrieved 10 August 2007.
+^ Johnston, Cassey (June 13, 2014). "How Disney built and programmed an animatronic president". Ars Technica. Retrieved August 4, 2014.
+^ "The History of Disney's Audio Animatronics". Magical Kingdoms. 2008-07-08. Retrieved 6 August 2014.
+^ Jump up to: a b c Pierce, Todd James (2013-07-18). "Beyond Lincoln: Walt's Vision for Animatronics in 1965". Retrieved 6 August 2014.
+^ Jump up to: a b Gluck, Keith (2013-06-18). "The Early Days of Audio-Animatronics". San Francisco, CA: The Walt Disney Family Museum. Archived from the original on 2014-08-06. Retrieved 10 August 2014. The Walt Disney Family Museum is not affiliated with The Walt Disney Company.
+^ "Real Life Canvas: Animating with Animatronics". DizFanatic.com. Retrieved 5 August 2014.
+^ Levelbest Communications (2005-05-06). "Walt Disney World — Disney World Vacation Information Guide — INTERCOT — Walt Disney World Inside & Out — Theme Parks". Intercot. Archived from the original on 2014-08-24. Retrieved 2014-08-04.
+^ "MousePlanet Park Guide — Walt Disney World — Lucky the Dinosaur". Mouseplanet.com. 2010-06-19. Retrieved 2014-08-04.
+^ "How do they do that? With animatronics!". Custom Entertainment Solutions. 2013-02-13. Retrieved 9 August 2014.
+^ "The Real History of Animatronics". Rogers Studios. Retrieved August 4, 2014.
+^ Stack, Tim; Staskiewicz, Keith (2013-04-04). "Welcome to 'Jurassic Park': An oral history". Entertainment Weekly. Retrieved 2014-09-29.
+^ Jump up to: a b Corliss, Richard (26 April 1993). "Behind the Magic of Jurassic Park". TIME. Retrieved 26 January 2007.
+^ Magid, Ron (June 1993). "Effects Team Brings Dinosaurs Back from Extinction". American Cinematographer. 74 (6): 46–52. Retrieved 21 October 2014. But this system achieved its most remarkable results in Jurassic Park's star attraction, a 40-foot-long, 9000-pound animatronic machine that perfectly recreated the appearance and fluid motion of a full-sized Tyrannosaurus rex.
+^ Cohen, Matt (2012-04-05). "Why Jurassic Park was meant to be seen in 3D". THE WEEK Publications, Inc. Retrieved 21 October 2014. Spielberg's dinosaurs were breathtakingly — and terrifyingly — realistic.
+^ Neale, Beren. "How Jurassic Park made cinematic history". 3D World (182). Retrieved 21 October 2014. Seeing Jurassic Park made me realise that my destiny was in digital
+^ Jump up to: a b c von Stamm, Bettina (19 May 2008). Managing Innovation, Design and Creativity (2nd ed.). John Wiley & Sons. ISBN 9780470510667. Retrieved 5 August 2014.
+^ McCarthy, Erin (2 April 2010). "Craig Ferguson's New Mythbuster Robot Sidekick: Exclusive Pics". Popular Mechanics. Retrieved 29 July 2010.
+^ "2007 Gold Effie Winner — Comcast "The Slowskys"" (PDF). Amazon Web Service. Retrieved 7 August 2014.
+^ Roberts, Tom (12 August 2009). "Animatronics – with added bite". The Guardian. Retrieved 6 August 2014.
+^ Fitzpatrick, Robert (May 1, 2010). Designing and Constructing an Animatronic Head Capable of Human Motion Programmed using Face-Tracking Software (PDF). Graduate Capstone Project Report (M.Sc.). Worcester Polytechnic Institute. Docket etd-050112-072212. Retrieved 13 September 2014.
+^ Tyson, Jeff (2001-07-18). "How Animatronics Work". How Stuff Works. Retrieved 27 November 2011.
+^ Jump up to: a b Wise, Edwin (2000). Animatronics: A Guide to Animated Holiday Displays. Cengage Learning. p. 9. ISBN 978-0790612195.
+^ Buffington, Jack. "Arvid's Eyes". Buffington Effects. Retrieved 9 August 2014.
+^ James, Thurston (1997). The prop builder's molding & casting handbook (6. pr. ed.). Cincinnati: Betterway Books. p. 51. ISBN 978-1-55870-128-1.
+^ Jump up to: a b c Buffington, Jack. "Skin and Molds". BuffingtonFX.
+^ Miller, Ron (2006). Special Effects: An Introduction to Movie Magic. Twenty-First Century Books.
+^ Chan, Normal (15 August 2012). "Synthetic Skin For Animatronic Robots Gets More Realistic". Whalerock Industries. Retrieved 9 August 2014.
+^ Baygan, Lee (1988). Techniques of three-dimensional makeup. New York, NY: Watson-Guptill. p. 100. ISBN 978-0-8230-5261-5.
+^ Jump up to: a b James, Thurston (1997). The prop builder's molding & casting handbook (6. pr. ed.). Cincinnati: Betterway Books. p. 55. ISBN 978-1-55870-128-1.
+^ Whelan, Tony (1994). "F". Polymer Technology Dictionary. Springer Netherlands. pp. 144–168. doi:10.1007/978-94-011-1292-5_8. ISBN 978-94-010-4564-3.
+^ Kornbluh, Roy D; Pelrine, Ron; Qibing, Pei; Heydt, Richard; Stanford, Scott; Oh, Seajin; Eckerle, Joseph (July 9, 2002). "Electroelastomers: applications of dielectric elastomer transducers for actuation, generation, and smart structures". Smart Structures and Material. Smart Structures and Materials 2002: Industrial and Commercial Applications of Smart Structures Technologies. Applications of Smart Structures Technologies (254): 254. Bibcode:2002SPIE.4698..254K. doi:10.1117/12.475072. S2CID 110672457.
+^ Ekman, Paul; Friesen, Wallace V. (1975). Unmasking the face : a guide to recognizing emotions from facial clues (PDF) (2. [pr.] ed.). Englewood Cliffs, N. J.: Prentice-Hall. ISBN 9780139381751. Retrieved 13 October 2014.
+^ Ortony, Andrew; Clore, Gerald L.; Collins, Allan (1988). "The Cognitive Structure of Emotions" (PDF). Cambridge University Press. Archived from the original (PDF) on 2015-11-23.
+^ Ribeiro, Tiago; Paiva, Ana. "The Illusion of Robotic Life" (PDF). Porto Salvo, Portugal: INESC-ID. Retrieved 9 August 2014.
+^ "Disney's new robot has a creepily human gaze" (Video). CNN. Retrieved 4 Nov 2020.
+^ "Animatronics Degree Programs with Career Information". Education Career Articles. 25 March 2013. Retrieved 6 August 2014.
+^ Jump up to: a b "La Inteligencia Artificial y la animatrónica, de la mano". Omicrono (in Spanish). 2017-08-06. Retrieved 2017-12-12.
+^ "Dubai estrena el primer policía robot del mundo". Omicrono (in Spanish). 2017-05-23. Retrieved 2017-12-12.
+^ The Banana Splits Movie at IMDb
+^ Willy's Wonderland at IMDb
+^ C, Mark (February 25, 2021). "WILLY'S WONDERLAND Interview: Director Kevin Lewis On Casting Nicolas Cage, Possible Sequel, & More". ComicBookMovie.com. Retrieved March 3, 2021.
+^ The Hug at IMDb
+^ Fuzzy Dice at IMDb
+^ Steak Me Amadeus at IMDb
+^ Can you Ear Me Now? at IMDb
+^ Soos and the Real Girl at IMDb
+^ Weirdmageddon Part 1 at IMDb
+^ Weirdmageddon 2: Escape From Reality at IMDb
+^ Not What He Seems at IMDb
+^ "IGM Interviews – Scott Cawthon (Five Nights at Freddy's)". IGM. Archived from the original on January 24, 2018. Retrieved March 19, 2017.
+^ Oxford, Nadia (June 29, 2018). "Murder, Dysfunctional Families, and Purple Guys: The Larger Story Behind the Five Nights at Freddy's Games [Updated for Freddy Fazbear's Pizzeria Simulator and UCN]". USGamer. Archived from the original on November 14, 2020. Retrieved December 6, 2020.
+^ "'Five Nights at Freddy's: The Silver Eyes' is Out Now – Bloody Disgusting!". bloody-disgusting.com. Archived from the original on August 10, 2017. Retrieved May 18, 2017.
+^ Frank, Allegra (December 14, 2015). "Five Nights at Freddy's novel hits stores next year". Polygon. Archived from the original on August 10, 2017. Retrieved December 14, 2015.
+^ Matulef, Jeffrey (December 17, 2015). "Five Nights at Freddy's creator releases spin-off novel". Eurogamer. Archived from the original on August 10, 2017. Retrieved December 17, 2015.
+^ Trish, Gerone (February 7, 2017). "'Five Nights At Freddy's: The Twisted Ones' Book Will Scare You With Charlie's Nightmares". Auto World News. Archived from the original on September 15, 2017. Retrieved August 3, 2017.
+^ "Amazon reveals plot for third 'Five Nights At Freddy's' book". Newsweek. March 8, 2018. Archived from the original on March 9, 2018. Retrieved March 10, 2018.
+^ Cawthon, Scott; Cooper, Elley (2019-12-26). Into the Pit (Five Nights at Freddy's: Fazbear Frights #1). Scholastic Inc. ISBN 978-1-338-62696-4. Archived from the original on March 27, 2021. Retrieved September 28, 2020.
+^ Cawthon, Scott; West, Carly Anne; Waggener, Andrea (2020-03-03). Fetch (Five Nights at Freddy's: Fazbear Frights #2). Scholastic Inc. ISBN 978-1-338-62697-1. Archived from the original on March 27, 2021. Retrieved November 11, 2020.
+^ Cawthon, Scott; Waggener, Andrea; Cooper, Elley (2020-05-05). 1:35AM (Five Nights at Freddy's: Fazbear Frights #3). Scholastic Inc. ISBN 978-1-338-62698-8. Archived from the original on March 27, 2021. Retrieved November 11, 2020.
+^ Cawthon, Scott (2020-09-01). Bunny Call (Five Nights at Freddy's: Fazbear Frights #5). Scholastic Inc. ISBN 978-1-338-62700-8. Archived from the original on March 27, 2021. Retrieved September 28, 2020.
+^ Aaron Perine (November 20, 2020). "Five Nights at Freddy's Movie Gets Filming Date". Comic Book. Archived from the original on November 20, 2020. Retrieved November 20, 2020.
